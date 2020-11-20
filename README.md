@@ -1,4 +1,3 @@
 # DBFoundations
 
-Web Site for this repostitory
-https://rootruw.github.io/June4Demo/
+These are the files of my assignment.
